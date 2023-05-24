@@ -1,0 +1,48 @@
+body{
+    text-align: auto;
+    
+}
+
+.card{
+    
+    text-align: center;
+    padding: 200px;
+    margin: 40px 40px 60px 40px;
+
+    
+
+
+}
+.card-description{
+    
+    text-align: center;
+    width: 1300px;
+    height: 500px;
+    padding: 5px;
+    justify-content: space-around;
+    margin: 10px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    display: flex;
+    background-color: #afc7cf;
+    color: #8350c6;
+    border-bottom: 15px solid #8350c6;
+    box-shadow: #93c6d6;
+    border-radius: 15px;
+    
+    
+}
+.avatar{
+    
+    width: 500px;
+    height: 450px;
+    padding: 10px;
+    border: 0;
+    box-shadow: #93c6d6;
+}
+.role{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #668586;
+    font-size: 40px;
+}
